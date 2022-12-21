@@ -1,0 +1,8 @@
+{
+  "name": "Fulfillment automation testing",
+  "description": "The idea is to test multiple cases and monitor if the extensions are working well.",
+  "version": "0.1.0",
+  "audience": ["vendor"],
+  "readme_url": "https://github.com/cloudblue/eaas-e2e-events-fulfillment/README.md",
+  "changelog_url": "https://github.com/cloudblue/eaas-e2e-events-fulfillment/CHANGELOG.md"
+}
